@@ -48,3 +48,4 @@ bt1.setOnClickListener(new View.OnClickListener(){
     }
 ```
 ## 截图
+![截图](https://github.com/ankleing/HomeWork4/tree/main/image/image1.png)
